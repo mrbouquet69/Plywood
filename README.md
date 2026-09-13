@@ -10,10 +10,7 @@ A brief, catchy one-line description of what your mod does. (e.g., *An immersive
 
 ## ✨ Features
 
-Give players and developers a quick breakdown of what your mod includes:
-* **Feature One:** Short description of a cool mechanic or item.
-* **Feature Two:** Another key selling point of your mod.
-* **Feature Three:** Visual improvements, performance changes, or world-gen tweaks.
+Adds a plywood type pane block.
 
 ## 📸 Screenshots
 
@@ -25,7 +22,6 @@ Give players and developers a quick breakdown of what your mod includes:
 You can download official builds of this mod from the following platforms:
 
 * **[CurseForge](https://curseforge.com)**
-* **[GitHub Releases](https://github.com)**
 
 ### How to Install:
 1. Ensure you have installed the correct version of **[NeoForge 1.21.1](https://neoforged.net)**.
@@ -36,7 +32,7 @@ You can download official builds of this mod from the following platforms:
 ## 🤝 Contributing & Bug Reports
 
 Found a bug or have a feature suggestion? 
-* Please open an issue on the **[Issue Tracker](https://github.com)** using the provided templates.
+* Please open an issue on the **[Issue Tracker](https://github.com/mrbouquet69/Plywood/issues)** using the provided templates.
 * Pull requests are always welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📝 License
