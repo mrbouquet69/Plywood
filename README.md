@@ -2,6 +2,8 @@
 
 ![Latest Release](https://img.shields.io/github/v/release/mrbouquet69/plywood?label=Latest%20Release&logo=github)
 
+[![Build Status](https://github.com/mrbouquet69/Plywood/actions/workflows/build.yml/badge.svg)](https://github.com/mrbouquet69/Plywood/actions/workflows/build.yml)
+
 A brief, catchy one-line description of what your mod does. (e.g., *An immersive NeoForge mod that adds dynamic weather systems and elemental magic to Minecraft.*)
 
 ---
