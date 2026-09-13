@@ -10,11 +10,6 @@ A brief, catchy one-line description of what your mod does. (e.g., *An immersive
 
 Adds a plywood type pane block.
 
-## 📸 Screenshots
-
-> [!TIP]
-> Drag and drop some high-quality gameplay screenshots or GIFs right here into your GitHub editor to showcase your mod visually!
-
 ## 📦 Downloads & Installation
 
 You can download official builds of this mod from the following platforms:
