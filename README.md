@@ -1,7 +1,5 @@
 # 🛠️ Plywood
 
-[![Minecraft 1.21.1](https://www.minecraft.net/etc.clientlibs/minecraftnet/clientlibs/clientlib-site/resources/favicon.ico)](https://minecraft.net)
-[![NeoForge](https://neoforged.net/favicon.ico)](https://neoforged.net)
 
 
 A brief, catchy one-line description of what your mod does. (e.g., *An immersive NeoForge mod that adds dynamic weather systems and elemental magic to Minecraft.*)
@@ -22,10 +20,9 @@ Adds a plywood type pane block.
 You can download official builds of this mod from the following platforms:
 
 * **[CurseForge](https://curseforge.com)**
+* **[NeoForge 1.21.1](https://neoforged.net/)**
 
 ### How to Install:
-1. Ensure you have installed the correct version of **[NeoForge 1.21.1](https://neoforged.net)**.
-2. Download the latest `.jar` file for this mod.
 3. Place the downloaded `.jar` file into your Minecraft instance's `mods` folder.
 4. Launch the game!
 
