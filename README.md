@@ -1,4 +1,4 @@
-# 🛠️ Your Mod Name
+# 🛠️ plywood
 
 [![Minecraft 1.21.1](https://shields.io)](https://minecraft.net)
 [![NeoForge](https://shields.io)](https://neoforged.net)
