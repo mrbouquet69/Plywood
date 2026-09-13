@@ -1,6 +1,6 @@
 # 🛠️ Plywood
 
-
+![Latest Release](https://img.shields.io/github/v/release/USERNAME/REPO?label=Latest%20Release&logo=github)
 
 A brief, catchy one-line description of what your mod does. (e.g., *An immersive NeoForge mod that adds dynamic weather systems and elemental magic to Minecraft.*)
 
